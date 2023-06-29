@@ -1,6 +1,3 @@
 # Seeme
-i 
-in 
-love 
-with 
-you
+
+i am main
