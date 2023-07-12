@@ -1,2 +1,2 @@
 suppose, i am using parent component
-i am slave
+i am slavesafsadf
